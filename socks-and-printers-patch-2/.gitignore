@@ -1,0 +1,15 @@
+*.pyc
+*.swp
+.idea
+*.iml
+build
+dist
+*.egg*
+.DS_Store
+*.zip
+camera/thermocam/pixelcal.txt
+camera/thermocam/calfile.txt
+camera/thermocam/refframe.txt
+octoprint-recordings/
+tmp.py
+video.avi
